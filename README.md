@@ -1,24 +1,12 @@
-# frontend
+# Project Name
 
-## Project setup
-```
-npm install
-```
+A Vue.js project.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Project Setup
 
-### Compiles and minifies for production
-```
-npm run build
-```
+- **Install dependencies:** `npm install`
+- **Start development server:** `npm run serve`
+- **Build for production:** `npm run build`
+- **Lint and fix files:** `npm run lint`
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+For more configuration options, see the [Vue CLI Configuration Reference](https://cli.vuejs.org/config/).
